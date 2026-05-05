@@ -135,7 +135,12 @@ Key finding:
 ### Business Takeaways
 - Revenue is driven primarily by accessories and storage  
 - Discounts are used strategically rather than aggressively  
-- Seasonal campaigns significantly impact performance  
+- Seasonal campaigns significantly impact performance
+
+## Presentation
+
+You can find the full analysis and business insights here:  
+[Download presentation](./your-file-name.pdf)
 
 ---
 
